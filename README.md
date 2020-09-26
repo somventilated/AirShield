@@ -1,4 +1,4 @@
-# Ventilation Meter for preventing COVID-19
+# Ventilation Meter for Preventing COVID-19
 
 
 ## Header 2
