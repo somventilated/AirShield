@@ -1,22 +1,14 @@
 # Ventilation Meter for Preventing COVID-19
 
 
-## Header 2
-### Header 3
+## System description
 
-- Bulleted
-- List
+The device consists of a lightweight box with an internal display that shows the air quality. Energy is supplied with an standard cell phone microUSB 5V DC source.
+The sensor is connected to a Telegram bot that let users to interact with it, for instance to know the air quality from outside the classroom or remotely.
 
-1. Numbered
-2. List
+![Portable box](img/photo_01.png)
 
-**Bold** and _Italic_ and `Code` text
+### Based on IoT-02 board
 
-[Link](url) and ![Image](src)
-For more details see GitHub Flavored Markdown.
+The project is based on the open source board IoT-02 (https://github.com/jordibinefa/IoT-02)
 
-Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-
-Support or Contact
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
