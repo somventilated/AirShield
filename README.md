@@ -6,9 +6,11 @@
 The device consists of a lightweight box with an internal display that shows the air quality. Energy is supplied with an standard cell phone microUSB 5V DC source.
 The sensor is connected to a Telegram bot that let users to interact with it, for instance to know the air quality from outside the classroom or remotely.
 
-![Portable box](img/photo_01.jpg)
+![Portable box](img/photo_01.jpg | width=400)
 
-More pictures are available here:  ![Picture 02](img/photo_02.jpg)      ![Picture 03](img/photo_03.jpg) 
+![Picture 02](img/photo_02.jpg | width=400) 
+
+![Picture 03](img/photo_03.jpg | width=400) 
 
 ### Based on the IoT-02 board
 
