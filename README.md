@@ -8,8 +8,6 @@ The sensor is connected to a Telegram bot that let users to interact with it, fo
 
 <img src="img/photo_01.jpg" width="60%">.
 
-<img src="img/photo_02.jpg" width="60%">.
-
 <img src="img/photo_03.jpg" width="60%">.
 
 ### Based on the IoT-02 board
