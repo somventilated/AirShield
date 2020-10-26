@@ -1,4 +1,4 @@
-# Ventilation Meter for Preventing COVID-19
+# SomVentilated AirShield Ventilation Meter for Preventing COVID-19
 
 
 ## System description
