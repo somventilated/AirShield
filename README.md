@@ -12,6 +12,9 @@ The sensor is connected to a Telegram bot that let users to interact with it, fo
 
 ![Picture 03](img/photo_03.jpg | width=400) 
 
+<img src="img/photo_01.jpg" width="60%">.
+
+
 ### Based on the IoT-02 board
 
 The project is based on the open source board IoT-02 (https://github.com/jordibinefa/IoT-02)
