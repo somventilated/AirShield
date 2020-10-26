@@ -12,3 +12,4 @@ The sensor is connected to a Telegram bot that let users to interact with it, fo
 
 The project is based on the open source board IoT-02 (https://github.com/jordibinefa/IoT-02)
 
+![IoT-02 board](http://binefa.com/images/thumb/6/68/14upcSchool.jpg/450px-14upcSchool.jpg)
