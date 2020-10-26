@@ -8,7 +8,7 @@ The sensor is connected to a Telegram bot that let users to interact with it, fo
 
 ![Portable box](img/photo_01.jpg)
 
-### Based on IoT-02 board
+### Based on the IoT-02 board
 
 The project is based on the open source board IoT-02 (https://github.com/jordibinefa/IoT-02)
 
