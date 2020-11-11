@@ -3,6 +3,8 @@
 
 ## System description
 
+AirShield is a meter that measures VOC levels, and CO2 measurements is in progress.
+
 The device consists of a lightweight box with an internal display that shows the air quality. Energy is supplied with an standard cell phone microUSB 5V DC source.
 The sensor is connected to a Telegram bot that let users to interact with it, for instance to know the air quality from outside the classroom or remotely.
 
