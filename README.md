@@ -12,7 +12,7 @@ The sensor is connected to a Telegram bot that let users to interact with it, fo
 
 <img src="img/photo_02.jpg" width="75%">
 
-<img src="img/photo_04.jpg" width="35%">  <img src="img/photo_05.jpg" width="35%">
+<img src="img/photo_04.jpg" width="36%">   <img src="img/photo_05.jpg" width="36%">
 
 <img src="img/photo_03.jpg" width="75%">
 
