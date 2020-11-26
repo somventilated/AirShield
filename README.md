@@ -3,7 +3,7 @@
 
 ## System description
 
-AirShield is a meter that measures VOC levels, and CO2 measurements is in progress, based on BME 680 and MH-Z19B CO2 sensors.
+AirShield is a meter that measures VOC levels, and CO2 measurements is in progress, based on BME 680 and [MH-Z19B](https://es.aliexpress.com/item/32815796002.html) CO2 sensors.
 
 The device consists of a lightweight box with an internal display that shows the air quality. Energy is supplied with an standard cell phone microUSB 5V DC source.
 The sensor is connected to a Telegram bot that let users to interact with it, for instance to know the air quality from outside the classroom or remotely.
